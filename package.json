@@ -1,0 +1,8 @@
+{
+  "name": "directions-api-proxy",
+  "version": "1.0.0",
+  "main": "api/directions.js",
+  "dependencies": {
+    "axios": "^1.5.0"
+  }
+}
